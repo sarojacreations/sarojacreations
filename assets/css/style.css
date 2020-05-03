@@ -13026,4 +13026,15 @@ input:focus {
   }
 }
 
+.footer-social-links {
+    margin: 40px 0          ;
+    list-style: none;
+    text-align: center;
+}
+
+.footer-social-links__item {
+    display: inline-block;
+    min-width: 50px;
+
+}
 /*# sourceMappingURL=style.css.map */
