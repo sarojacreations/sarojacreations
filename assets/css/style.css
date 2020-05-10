@@ -3444,7 +3444,7 @@ input:focus {
 
 /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-bottom {
-  padding: 0px 170px;
+  padding: 0px 10px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
@@ -5009,7 +5009,7 @@ input:focus {
 @media (max-width: 767px) {
   /* line 313, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_best-product.scss */
   .gallery-wrapper .gallery-area .gallery-items {
-    width: 50%;
+    width: 100%;
   }
 }
 
